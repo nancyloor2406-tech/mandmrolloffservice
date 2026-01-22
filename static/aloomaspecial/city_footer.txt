@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How much does a dumpster rental cost in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Dumpster rental prices near me in #State depend on the container size, debris type, and rental duration. We offer competitive flat rates to ensure you find an affordable dumpster rental. Contact us for a precise quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What items are prohibited in roll off dumpsters near me in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous waste, tires, batteries, and wet paint are prohibited. We provide a full list of prohibited items for your rubbish container rental in #State upon booking.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Do you offer same day dumpster rental in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strive to fulfill order dumpster near me requests on the same day when inventory allows. Calling early ensures better availability for your waste container rental.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Is the 40 yard dumpster rental good for roofing?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A 40 yard dumpster is usually too large for heavy roofing shingles due to weight limits. We recommend a smaller 10 yard dumpster or 20-yard unit for roofing projects.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Is the 12 yard dumpster big enough for a kitchen remodel?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For small to medium kitchen remodels, a 12 yard dumpster is often sufficient. For larger renovations, you might consider a larger size. We help with dumpster sizing.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>

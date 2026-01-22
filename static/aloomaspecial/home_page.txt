@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1.  How much does a dumpster rental cost near me?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Dumpster rental prices vary by state due to local disposal fees, fuel costs, and container availability. On average, prices range from $300 to $800. We offer competitive flat-rate pricing to ensure you get an affordable dumpster rental in your specific area.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What can I put in a roll off dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can dispose of most household junk, furniture, yard waste, and construction debris in our bins. However, hazardous materials, tires, batteries, and wet paint are generally prohibited. We provide a full list of allowed items for your waste bin rental upon booking.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. How long is the rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental period is generally 7 to 10 days. If you need the trash rental for a longer duration, simply let us know, and we can usually arrange a flexible extension for a small daily fee.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Can I put concrete in a regular dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">YNo, heavy aggregates like concrete require specific concrete dumpsters near me to avoid weight overages. Mixing heavy materials in a standard rubbish bin rental can lead to safety issues and extra fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. How do I choose the right size?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For small cleanouts, a 10 yard dumpster is usually sufficient. For kitchen remodels or roofing, a 20 yard dumpster is standard. Large construction projects typically require a 30 yard or 40 yard dumpster. We can assist with dumpster sizing.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
